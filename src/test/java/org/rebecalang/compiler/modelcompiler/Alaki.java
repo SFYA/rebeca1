@@ -10,8 +10,8 @@ public class Alaki {
     }
 
     public void test2() {
-        for (int i=0; i<10; test()) {
-            
+        for (int i=0; i<10; i++) {
+            System.out.println("Salam");
         }
     }
 }
