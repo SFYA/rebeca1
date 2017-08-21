@@ -16,12 +16,12 @@ import java.util.Set;
  * Created by farzad on 6/22/17.
  */
 public class RebecaCompilerTest {
-    @Test
+//    @Test
     public void test1() {
         assert (true);
     }
 
-    @Test
+//    @Test
     public void testCompileMethod1() throws ExceptionContainer {
         File rebecaFile = new File("/home/farzad/Projects/rebeca/SampleCodes/Dining-Philosophers/phils.rebeca");
 

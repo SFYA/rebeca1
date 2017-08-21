@@ -26,6 +26,7 @@ public class RebecaCompilerTester {
 
         boolean allFilesCompiledAsExpected = true;
 
+
         File folder = new File(baseDir);
         File[] rebecaFiles = folder.listFiles();
         if (rebecaFiles != null) {

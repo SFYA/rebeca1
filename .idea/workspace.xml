@@ -13,6 +13,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/org/rebecalang/compiler/modelcompiler/RebecaCompilerTester.class" afterPath="$PROJECT_DIR$/target/test-classes/org/rebecalang/compiler/modelcompiler/RebecaCompilerTester.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaCompilerTest.java" afterPath="$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaCompilerTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaCompilerTester.java" afterPath="$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaCompilerTester.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/org/rebecalang/compiler/modelcompiler/grammar/CoreRebecaComplete.g4" afterPath="$PROJECT_DIR$/target/classes/org/rebecalang/compiler/modelcompiler/grammar/CoreRebecaComplete.g4" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/org/rebecalang/compiler/modelcompiler/grammar/CoreRebecaExpressionLexer.g4" afterPath="$PROJECT_DIR$/target/classes/org/rebecalang/compiler/modelcompiler/grammar/CoreRebecaExpressionLexer.g4" />
@@ -76,14 +77,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RebecaCompilerTester.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RebecaCompilerTester.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaCompilerTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="360">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RebecaCompilerTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaCompilerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -159,7 +170,6 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/org/rebecalang/compiler/modelcompiler/RebecaCompiler.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaCompilerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaFilesWithErrorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/CompilerTester.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaFilesWithNoErrorTest.java" />
@@ -167,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaFileCompilationTester.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/Alaki.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaCompilerTester.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaCompilerTest.java" />
       </list>
     </option>
   </component>
@@ -215,6 +226,20 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="org.rebecalang.compiler-master">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="org.rebecalang.compiler-master">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -821,7 +846,7 @@
       <workItem from="1499861545552" duration="30000" />
       <workItem from="1502610686947" duration="2520000" />
       <workItem from="1502621507712" duration="3345000" />
-      <workItem from="1503297794833" duration="4933000" />
+      <workItem from="1503297794833" duration="5462000" />
     </task>
     <servers />
   </component>
@@ -858,7 +883,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40087000" />
+    <option name="totallyTimeSpent" value="40616000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -887,13 +912,13 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39975095" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833958" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833958" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27752444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1289,13 +1314,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaCompilerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/Alaki.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1316,11 +1334,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaCompilerTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="360">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/rebecalang/compiler/modelcompiler/RebecaCompilerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
