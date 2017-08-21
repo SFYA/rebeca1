@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.tunnelvisionlabs:antlr4:complete:4.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/tunnelvisionlabs/antlr4/4.2/antlr4-4.2-complete.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/tunnelvisionlabs/antlr4/4.2/antlr4-4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/tunnelvisionlabs/antlr4/4.2/antlr4-4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
