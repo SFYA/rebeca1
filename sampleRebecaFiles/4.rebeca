@@ -1,0 +1,20 @@
+reactiveclass ClassName(1) {
+    knownrebecs {}
+    statevars {
+        int a,
+        i;
+    }
+    ClassName() {}
+    msgsrv ehsanMethod() {
+        for (i = 1; i < 20; i++) {
+            if (true) {
+                for (i = 1; i < 20; i++);
+            } else if (true) {
+                while (true);
+            } else {
+                a = 1;
+            }
+        }
+    }
+}
+main {}

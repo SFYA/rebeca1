@@ -17,7 +17,8 @@ import static junit.framework.Assert.fail;
 public class RebecaCompilerTester {
 
 //    private static String baseDir = "/home/farzad/Projects/rebeca/SampleCodes/CorrectFiles/";
-    private static String baseDir = "/home/farzad/Projects/rebeca/SampleCodes/tests/";
+//    private static String baseDir = "/home/farzad/Projects/rebeca/SampleCodes/tests/";
+    private static String baseDir = "./sampleRebecaFiles";
     private Logger logger = Logger.getLogger(this.getClass().getName());
 
     @Test
